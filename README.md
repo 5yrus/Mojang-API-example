@@ -5,3 +5,7 @@ This is a simple python example of how to use the Mojang API.
  - Username to UUID
  - UUID to username
  - UUID to name history
+ 
+ # Installing requirements
+ - pip install -r requirements.txt
+ 
